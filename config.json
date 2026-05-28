@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevtringify",
+        "uuid": 31075947,
+        "checksum": "kas4py"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
